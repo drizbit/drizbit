@@ -1,3 +1,5 @@
+<!-- These statistic SVGs are totally real... -->
+
 <a href="https://drizbit.io">
   <img align="center" src="https://raw.githubusercontent.com/drizbit/drizbit/master/stats.svg" alt="drizbit's GitHub Stats" />
 </a>
