@@ -1,9 +1,9 @@
 <a href="https://drizbit.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drizbit&show_icons=true&line_height=33&count_private=true&theme=dark" alt="drizbit's GitHub Stats" />
+  <img align="center" src="https://raw.githubusercontent.com/drizbit/drizbit/master/stats.svg" alt="drizbit's GitHub Stats" />
 </a>
 
 <a href="https://drizbit.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizbit&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://raw.githubusercontent.com/drizbit/drizbit/master/languages.svg" />
 </a>
 
 <a href="https://twitter.com/drizbit">
